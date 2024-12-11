@@ -1,0 +1,25 @@
+[
+  {
+    "title": "hand cricket",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the python and django.",
+    "skills": ["Python","Django"],
+    "source": "https://github.com/ManojYenumula/Hand-cricket-using-python.git"
+  },
+  {
+    "title": "To-do-list",
+    "imageSrc": "projects/to-do-list.png",
+    "description": "This is a project made to learn the react,node js and java script.",
+    "skills": ["React", "Node","JS"],
+    "source": "https://github.com/ManojYenumula/To-do-list.git"
+  },
+  {
+    "title": "Traveling-website",
+    "imageSrc": "projects/travelling-web.png",
+    "description": "This is a project made to learn html and css at begining of full-stack journey.",
+    "skills": ["Html", "Css"],
+    "source": "https://github.com/ManojYenumula/Traveling-website.git"
+  
+  
+  }
+]
