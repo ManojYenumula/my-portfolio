@@ -8,6 +8,8 @@ import "@fontsource/roboto";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <App />
+     <BrowserRouter basename={"/<REPO>/"}>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
