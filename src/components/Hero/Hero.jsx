@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Manoj</h1>
         <p className={styles.description}>
-        I'm a full-stack web developer.using technologies including React, Django, MongoDB, and MySQL.Reach out if you like know more
+        I'm a full-stack web developer.using technologies MERN STACK and Django with MySQL.Reach out if you like know more
         </p>
-        <a href="ymdnnaidu@email.com" className={styles.contactBtn}>
+        <a href="ymdnnaidu@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
