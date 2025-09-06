@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Manoj</h1>
         <p className={styles.description}>
-        I'm a full-stack web developer.using technologies including React, Django, MongoDB, and MySQL.Reach out if you like know more
+        I'm a Full-Stack Developer specializing in the MERN stack—building fast, scalable web applications with seamless front-end experiences and powerful, optimized back-ends. Let’s connect if you want to see my work!
         </p>
-        <a href="ymdnnaidu@email.com" className={styles.contactBtn}>
+        <a href="mailto:ymdnnaidu@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

@@ -1,24 +1,24 @@
 [
   {
-    "title": "hand cricket",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the python and django.",
-    "skills": ["Python","Django"],
-    "source": "https://github.com/ManojYenumula/Hand-cricket-using-python.git"
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/e-commerce.png",
+    "description": "A fully functional E-Commerce web application built using MERN Stack. It includes product listing, user authentication, cart management, and payment integration.",
+    "skills": ["React", "Express.js", "Node.js","MongoDB"],
+    "source": "https://infinity-frontend-psi.vercel.app/"
   },
   {
-    "title": "To-do-list",
-    "imageSrc": "projects/to-do-list.png",
-    "description": "This is a project made to learn the react,node js and java script.",
-    "skills": ["React", "Node","JS"],
+    "title": "Hand Cricket Game",
+    "imageSrc": "projects/handcricket.png",
+    "description": "A fun JavaScript based Hand Cricket game where you can play against the computer. It helps in learning basic JS concepts like loops, conditionals, and random number generation.",
+    "skills": ["Html", "Css","JS"],
     "source": "https://github.com/ManojYenumula/To-do-list.git"
   },
   {
     "title": "Traveling-website",
     "imageSrc": "projects/travelling-web.png",
-    "description": "This is a project made to learn html and css at begining of full-stack journey.",
+    "description": "A simple and responsive traveling website built using HTML and CSS at the beginning of my full-stack development journey",
     "skills": ["Html", "Css"],
-    "source": "https://github.com/ManojYenumula/Traveling-website.git"
+    "source": "https://manojyenumula.github.io/Traveling-website/"
   
   
   }
