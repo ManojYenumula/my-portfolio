@@ -11,7 +11,7 @@
     "imageSrc": "projects/handcricket.png",
     "description": "A fun JavaScript based Hand Cricket game where you can play against the computer. It helps in learning basic JS concepts like loops, conditionals, and random number generation.",
     "skills": ["Html", "Css","JS"],
-    "source": "https://github.com/ManojYenumula/To-do-list.git"
+    "source": "https://manojyenumula.github.io/hand-cricket-with-userinterface/"
   },
   {
     "title": "Traveling-website",
